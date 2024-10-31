@@ -4,16 +4,16 @@ I'm a software engineer dedicated to developing services in Java using Spring Bo
 
 ## Frameworks in java
 
-This section is to show you wich frameworks i used in my experience
+This section is to show you which frameworks I have used in my experience
 
-|framework|knowlage|
-|---------|----------|
-|apache camel| strong |
-|spring boot| strong|
-|jpa|strong|
-|spring web flux| strong|
-|gradle|strong|
-|maven|strong
+|Framework     |Knowledge|
+|--------------|---------|
+|Apache Camel  |Strong   |
+|Spring Boot   |Strong   |
+|JPA           |Strong   |
+|Spring WebFlux|Strong   |
+|Gradle        |Strong   |
+|Maven         |Strong   |
 
 <!--
 **cristhianhoyos/cristhianhoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
