@@ -12,8 +12,15 @@ This section is to show you which frameworks I have used in my experience
 |Spring Boot   |Strong   |
 |JPA           |Strong   |
 |Spring WebFlux|Strong   |
-|Gradle        |Strong   |
-|Maven         |Strong   |
+
+## Build Tools in Java
+
+This section is to show you which build tools I have used in my experience.
+
+| Build Tool | Knowledge |
+|------------|-----------|
+| Gradle     | Strong    |
+| Maven      | Strong    |
 
 <!--
 **cristhianhoyos/cristhianhoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
